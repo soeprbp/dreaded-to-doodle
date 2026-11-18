@@ -1,0 +1,4 @@
+interface:
+  display_name: "The Dreaded To-Doodle"
+  short_description: "Choose important work and make a realistic focus plan"
+  default_prompt: "Use $dreaded-to-doodle to help me choose my most important actionable task and define the first step and completion criteria."
